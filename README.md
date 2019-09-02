@@ -11,7 +11,7 @@ USE
 	>>> from afinnScore import afinnScoreDataframeColumn
 	>>> afinnScoreDataframeColumn(df,0)
 	>>> 0    3
-		1   -3
-		2   -3
-		dtype: int64
+	1   -3
+	2   -3
+	dtype: int64
 
